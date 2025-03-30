@@ -1,0 +1,1 @@
+print(sum([int(n)**2%10 for n in input().split()])%10)
